@@ -1,0 +1,206 @@
+/*body css starts here*/
+@import url('../fonts/fontawesome/fontawesome-free-5.12.1-web/css/all.css');
+body{
+    background-color: #eee;
+    margin: 0;
+    padding: 0;
+    font-family: axiforma-regular,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+}
+
+#headerBlock{
+    background-color:black;
+    padding: 10px;
+    height: 45px;
+    
+}
+.leftBlock{
+    width: 70%;
+    float: left;
+    
+}
+.rightBlock{
+    width: 30%;
+    float: left;
+    text-align: right;
+    line-height: 40px;
+    
+}
+#headerBlock article{
+    width: 1200px;
+    margin: 0 auto;
+}
+.logo img{
+    width: 290px;
+}
+.leftmenu ul, .rightBlock ul{/* it is called chainging we should chain like this if both are sharing simliar properties*/
+
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.leftmenu ul li a, .rightBlock ul li a{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    font-weight: 600;
+}
+.leftmenu ul li{
+    display: inline-block;
+}.
+.logo{
+    width: 40%;
+    float: left;
+}
+.leftmenu{
+    width: 60%;
+    float: left;
+    line-height: 40px;
+}
+.leftBlock .logo{
+    color: white;
+}
+/*body css ends here*/
+
+/*log in section  css starts here*/
+#loginBlock {
+    background: url(../images/image1.jpg);
+    height: 67px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #eee;
+}
+#loginBlock article{
+    width:1000px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 70px 0;
+    background-color: #eee;
+}
+
+#loginBlock h1{
+    font-size: 52px;
+    color: black;
+    font-weight: bold;
+    margin-left: -639px;
+    margin-top: 0px;
+background-color: #eee;
+}
+
+#loginBlock article div img{
+    height: 218px;
+    width: 364px;
+    padding-left: 582px;
+}
+/*log in section  css ends here*/
+
+
+/*rider and driver  css starts here*/
+#riderBlock article main div{
+    background-color: white;
+    
+}
+.firstOne{
+    margin-top: 413px;
+    margin-left: 203px;
+    font-size: 40px;
+    font-weight: 500;
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    border-bottom: 1px solid black;
+}
+
+.lastOne{
+    margin-top: -147px;
+    margin-left: 875px;
+font-weight: 500;
+font-size:40px ;
+background-color: white;
+height: 100px;
+width: 100px;
+border-bottom: 1px solid black;
+}
+/*rider and driver css ends here*/
+
+/*footerBlock section css starts here*/
+#footerBlock article main div{
+    background-color: black;
+    margin-right: 0px solid #eee;
+    box-sizing: border-box;
+    padding-bottom: 1px;
+    border-bottom: 1px solid white;
+}
+
+#footerBlock article main div h4{
+    color: white;
+    padding-left: 211.33px;
+    font-size: 20px;
+    padding-top: 27px;
+    font-weight: 500;
+    margin-top: 1px;
+    
+    font-family: 'UberMoveText', 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#footerBlock article main div ul{
+    color: white;
+    padding-left:205px; 
+    
+    font-family: 'UberMoveText', 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif;
+}
+img{
+padding-left: 100px;
+}
+ .middleone .inside div h2{
+    color: white;
+    padding-left: 582px;
+    margin-top: -224px;
+    font-size: 20px;
+    
+    font-family: 'UberMoveText', 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.middleone .inside div span a{
+    padding-left: 603px;
+    color: white;
+    padding-top: -35px;
+    margin-top: -13px;
+    padding-inline-end: 53px;
+    text-decoration: none;
+    line-height: 28px;
+    font-weight: 400;
+    
+    font-family: 'UberMoveText', 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.lastone .inside div h6 {
+    color: white;
+    padding-left: 835px;
+    margin-top: -210px;
+    font-size: 20px;
+    text-decoration: none;
+    
+    font-family: 'UberMoveText', 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif;
+    
+}
+
+ .lastone .inside div  a{
+    color: white;
+    padding-left: 866px;
+    text-decoration: none;
+    line-height: 28px;
+    font-weight: 400;
+    padding-top: -35px;
+    margin-top: -13px;
+    padding-inline-end: 53px;
+    
+    font-family: 'UberMoveText', 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif;
+    
+ }
+
+ /*footerBlock section css ends here*/
+
+ 
+
+ 
+
